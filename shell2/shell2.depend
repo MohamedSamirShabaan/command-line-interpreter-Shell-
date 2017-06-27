@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1476560448 source:/home/mohamed/trys/shell2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<unistd.h>
+	<sys/wait.h>
+	<signal.h>
+
